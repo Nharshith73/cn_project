@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+time_client
+background_sender
+time_server
+results/*.csv
+.env
+.env.*
+!.env.example
+*.key
+*.pem
